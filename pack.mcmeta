@@ -1,0 +1,11 @@
+{ 
+  "pack": {
+    "pack_format": 23,
+	"name": "Last Life for Extra Life Resources",
+    "description": "\u00a7b\u00a7lLast Life\u00a7e\u00a7l for \u00a7c\u00a7lExtra Life",
+	"supported_formats": {
+	  "min_inclusive": 1,
+	  "max_inclusive": 99
+	}
+  }
+}
