@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "ll4el:item/totems/heart"
+		"layer0": "lastlife:item/totems/heart"
 	}
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "ll4el:item/custom/particles"
+        "layer0": "lastlife:item/custom/particles"
     }
 }

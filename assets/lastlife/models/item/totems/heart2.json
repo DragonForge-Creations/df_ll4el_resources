@@ -1,6 +1,6 @@
 {
-	"parent": "ll4el:item/totems/heart",
+	"parent": "lastlife:item/totems/heart",
 	"textures": {
-		"layer1": "ll4el:item/totems/2"
+		"layer1": "lastlife:item/totems/2"
 	}
 }
