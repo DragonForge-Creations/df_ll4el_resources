@@ -1,0 +1,11 @@
+{
+	"providers":[
+	{
+		"type":"bitmap",
+		"file":"lastlife:font/boogie.png",
+		"ascent":18,
+		"height":72,
+		"chars":["\ue001"]
+	}
+	]
+}

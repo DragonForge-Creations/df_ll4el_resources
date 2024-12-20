@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/totem_of_undying"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "lastlife:item/totems/heart"},
+		{"predicate": {"custom_model_data":1001}, "model": "lastlife:item/totems/heart"},
+		{"predicate": {"custom_model_data":1002}, "model": "lastlife:item/totems/heart2"},
+		{"predicate": {"custom_model_data":1003}, "model": "lastlife:item/totems/heart3"},
+		{"predicate": {"custom_model_data":1004}, "model": "lastlife:item/totems/heart3plus"}
+		
+		
+	]
+}

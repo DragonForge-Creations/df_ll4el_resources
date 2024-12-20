@@ -1,0 +1,6 @@
+{
+	"parent": "ll4el:item/totems/heart",
+	"textures": {
+		"layer1": "ll4el:item/totems/2"
+	}
+}
