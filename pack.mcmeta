@@ -1,11 +1,15 @@
-{ 
-  "pack": {
-    "pack_format": 23,
-	"name": "Last Life for Extra Life Resources",
-    "description": "\u00a7b\u00a7lLast Life\u00a7e\u00a7l for \u00a7c\u00a7lExtra Life",
-	"supported_formats": {
-	  "min_inclusive": 1,
-	  "max_inclusive": 99
+{
+    "pack": {
+        "pack_format": 23,
+		"supported_formats": [23, 99],
+        "description": "\u00a7aLast Life For Extra Life \u00a77(\u00a76v. 1.21\u00a77)"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			}
+		]
 	}
-  }
 }
