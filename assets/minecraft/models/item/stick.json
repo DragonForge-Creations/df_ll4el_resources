@@ -11,8 +11,7 @@
 		{"predicate": {"custom_model_data":103}, "model": "lastlife:item/custom/arrow_left"},
 		{"predicate": {"custom_model_data":104}, "model": "lastlife:item/custom/arrow_right"},
 		{"predicate": {"custom_model_data":105}, "model": "lastlife:item/custom/arrow_up"},
-		{"predicate": {"custom_model_data":106}, "model": "lastlife:item/custom/arrow_down"}
-		
-		
+		{"predicate": {"custom_model_data":106}, "model": "lastlife:item/custom/arrow_down"},
+		{"predicate": {"custom_model_data":107}, "model": "lastlife:item/custom/gift"}
 	]
 }
