@@ -1,6 +1,0 @@
-{
-	"parent": "lastlife:item/totems/heart",
-	"textures": {
-		"layer1": "lastlife:item/totems/1"
-	}
-}
